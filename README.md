@@ -6,13 +6,11 @@
 - Michigan, USA 🚗
 - I won't say my Scratch account for privacy reasons, but it has over 2,200 followers and a game with over 360k plays! 🍄
 
-   📫 How to reach me: <a href='mailto:kem82807@gmail.com'>kem82807@gmail.com</a>
+📫 My email: <a href='mailto:kem82807@gmail.com'>kem82807@gmail.com</a>
   
   ## 🛠 Technology Stack 
-* Basic Python
-* MySQL, PostgreSQL, MongoDB 
-* Spring Framework, Spring Boot 
-* GitHub/GitLab
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django)
+
 
   ## 📊 Statistics
 
