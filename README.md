@@ -10,7 +10,7 @@
   
   ## 🛠 Technology Stack 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django)
-
+![GitHub contributors](https://img.shields.io/github/contributors/KailM2007/KailM2007)
 
   ## 📊 Statistics
 
